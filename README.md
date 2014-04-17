@@ -11,6 +11,7 @@ Any code meant to practice.
                 2014 Qualification:
                 <ul>
                     <li><a href="https://code.google.com/codejam/contest/2974486/dashboard#s=p0">Magic Trick</a> - <a href="https://github.com/cgortaris/exercises/tree/master/google-code-jam/2014-qualification/problem-A/solution.py">Solution</a>.</li>
+                    <li><a href="https://code.google.com/codejam/contest/2974486/dashboard#s=p1">Cookie Clicker Alpha</a> - <a href="https://github.com/cgortaris/exercises/tree/master/google-code-jam/2014-qualification/problem-B/solution.py">Solution</a>.</li>
                 </ul>
             </li>
             <li>
